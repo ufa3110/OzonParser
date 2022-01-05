@@ -7,7 +7,7 @@ using System.Threading;
 
 namespace Parser
 {
-    public class OzonParser : ParserBase
+    public class HozDomParser : ParserBase
     {
         internal const string ReviewCountSelector = "a8p2";
         internal const string SearchResultsContainerClassName = "widget-search-result-container";
@@ -53,7 +53,7 @@ namespace Parser
             Thread.Sleep(4000);
         }
 
-        public OzonParser(string parseText)
+        public HozDomParser(string parseText)
         {
             var uribuilder = new UriBuilder()
             {
@@ -65,7 +65,6 @@ namespace Parser
 
             this.ParseUrl = uribuilder.Uri.ToString();
             this.ParseText = parseText;
-            this.SiteName = "OZON";
 
             CardNameClassName = "bj5";
             CardPriceClassName = "ui-q1";

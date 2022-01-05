@@ -70,6 +70,7 @@ namespace Postgree
 		[Column("review_count"),     Nullable           ] public int?    ReviewCount  { get; set; } // integer
 		[Column("summary_stars"),    Nullable           ] public double? SummaryStars { get; set; } // double precision
 		[Column("category"),         Nullable           ] public string  Category     { get; set; } // character varying
+		[Column("site_name"),        Nullable           ] public string  SiteName     { get; set; } // character varying
 	}
 
 	public static partial class TableExtensions

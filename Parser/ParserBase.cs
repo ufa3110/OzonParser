@@ -16,6 +16,8 @@ namespace Parser
         internal string ParseUrl { get; set; }
 
         internal string ParseText { get; set; }
+        
+        internal string SiteName { get; set; }
 
         internal string CardNameClassName = "";
 
@@ -34,7 +36,7 @@ namespace Parser
                 try
                 {
                     var results = ParsePage();
-                    DBConnector.DBHelper.FlushParsePage(results, ParseText);
+                    DBConnector.DBHelper.FlushParsePage(results, ParseText, SiteName);
                     Driver.FindElement(By.LinkText(NextPageTextSelector)).Click();
                     elementsCounter += results.Count;
                     Console.WriteLine($"finded and flushed:{elementsCounter}");
@@ -45,7 +47,7 @@ namespace Parser
                 catch (Exception ex)
                 {
                     Driver.Quit();
-                    throw new Exception("Ошибка в основном цикле парсера", ex);
+                    throw new Exception("Main cycle error", ex);
                 }
             }
         }
