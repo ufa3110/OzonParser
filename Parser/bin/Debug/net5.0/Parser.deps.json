@@ -1,0 +1,183 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Parser/1.0.0": {
+        "dependencies": {
+          "DBConnector": "1.0.0",
+          "Interfaces": "1.0.0",
+          "Selenium.WebDriver": "4.1.0",
+          "Structures": "1.0.0"
+        },
+        "runtime": {
+          "Parser.dll": {}
+        }
+      },
+      "linq2db/3.6.0": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.7.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/linq2db.dll": {
+            "assemblyVersion": "3.6.0.0",
+            "fileVersion": "3.6.0.0"
+          }
+        }
+      },
+      "linq2db.PostgreSQL/3.6.0": {
+        "dependencies": {
+          "Npgsql": "5.0.11",
+          "linq2db": "3.6.0"
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Npgsql/5.0.11": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.6.0"
+        },
+        "runtime": {
+          "lib/net5.0/Npgsql.dll": {
+            "assemblyVersion": "5.0.11.0",
+            "fileVersion": "5.0.11.0"
+          }
+        }
+      },
+      "OpenQA.Selenium.Chrome.ChromeDriverExtensions/1.2.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/OpenQA.Selenium.Chrome.ChromeDriverExtensions.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.1.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/net5.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "System.ComponentModel.Annotations/4.7.0": {},
+      "System.Runtime.CompilerServices.Unsafe/4.6.0": {},
+      "DBConnector/1.0.0": {
+        "dependencies": {
+          "Interfaces": "1.0.0",
+          "Structures": "1.0.0",
+          "linq2db.PostgreSQL": "3.6.0"
+        },
+        "runtime": {
+          "DBConnector.dll": {}
+        }
+      },
+      "Interfaces/1.0.0": {
+        "dependencies": {
+          "OpenQA.Selenium.Chrome.ChromeDriverExtensions": "1.2.0"
+        },
+        "runtime": {
+          "Interfaces.dll": {}
+        }
+      },
+      "Structures/1.0.0": {
+        "runtime": {
+          "Structures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "linq2db/3.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZgaxVkEbxbHparKQ8fCW13S1wp9m3vDQkmbbssIhaNmbFoWm9zV8K/tmX+cL0CEcqRAdIibSOsIdZp3QWNK0mg==",
+      "path": "linq2db/3.6.0",
+      "hashPath": "linq2db.3.6.0.nupkg.sha512"
+    },
+    "linq2db.PostgreSQL/3.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E+ptzCjJCS63TSh9F0xrHvAi2DLMI6jtRcvKakbtZsTCcpd6EClhpq/uRQeEznmReXMidBELoRcdwQKCuVJ7HA==",
+      "path": "linq2db.postgresql/3.6.0",
+      "hashPath": "linq2db.postgresql.3.6.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Npgsql/5.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tCc36FSYqdYN/JQUaR2KkQj54suYPg5Jl6LXOGZ6MiiqnwDHDXkEKwxhsqR6+Ovh3MZ4yZltkKYJu9JG3WZZ9g==",
+      "path": "npgsql/5.0.11",
+      "hashPath": "npgsql.5.0.11.nupkg.sha512"
+    },
+    "OpenQA.Selenium.Chrome.ChromeDriverExtensions/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z5/MAdjFlHcECXN4sxS356Hul5iJD1vHznAwINo9YR3j+PXVU2PjgmkLEB6zvRLxzouL8qfNBioSWkxfvlsbMg==",
+      "path": "openqa.selenium.chrome.chromedriverextensions/1.2.0",
+      "hashPath": "openqa.selenium.chrome.chromedriverextensions.1.2.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-d4smisz4a/wJCM2TzkKTl+BLfvZUTvaobhKElDfCVZlvY8ThsC8VAoBNWTlg1H/GGzIP//yVGko/W0FILTgkYA==",
+      "path": "selenium.webdriver/4.1.0",
+      "hashPath": "selenium.webdriver.4.1.0.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0YFqjhp/mYkDGpU0Ye1GjE53HMp9UVfGN7seGpAMttAC0C40v5gw598jCgpbBLMmCo0E5YRLBv5Z2doypO49ZQ==",
+      "path": "system.componentmodel.annotations/4.7.0",
+      "hashPath": "system.componentmodel.annotations.4.7.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HxozeSlipUK7dAroTYwIcGwKDeOVpQnJlpVaOkBz7CM4TsE5b/tKlQBZecTjh6FzcSbxndYaxxpsBMz+wMJeyw==",
+      "path": "system.runtime.compilerservices.unsafe/4.6.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+    },
+    "DBConnector/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Structures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

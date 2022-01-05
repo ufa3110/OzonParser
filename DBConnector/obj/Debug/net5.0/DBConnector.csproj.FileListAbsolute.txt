@@ -1,0 +1,17 @@
+C:\Users\azatu\source\repos\Analysis\DBConnector\bin\Debug\net5.0\DBConnector.deps.json
+C:\Users\azatu\source\repos\Analysis\DBConnector\bin\Debug\net5.0\DBConnector.dll
+C:\Users\azatu\source\repos\Analysis\DBConnector\bin\Debug\net5.0\ref\DBConnector.dll
+C:\Users\azatu\source\repos\Analysis\DBConnector\bin\Debug\net5.0\DBConnector.pdb
+C:\Users\azatu\source\repos\Analysis\DBConnector\bin\Debug\net5.0\Interfaces.dll
+C:\Users\azatu\source\repos\Analysis\DBConnector\bin\Debug\net5.0\Structures.dll
+C:\Users\azatu\source\repos\Analysis\DBConnector\bin\Debug\net5.0\Interfaces.pdb
+C:\Users\azatu\source\repos\Analysis\DBConnector\bin\Debug\net5.0\Structures.pdb
+C:\Users\azatu\source\repos\Analysis\DBConnector\obj\Debug\net5.0\DBConnector.csproj.AssemblyReference.cache
+C:\Users\azatu\source\repos\Analysis\DBConnector\obj\Debug\net5.0\DBConnector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azatu\source\repos\Analysis\DBConnector\obj\Debug\net5.0\DBConnector.AssemblyInfoInputs.cache
+C:\Users\azatu\source\repos\Analysis\DBConnector\obj\Debug\net5.0\DBConnector.AssemblyInfo.cs
+C:\Users\azatu\source\repos\Analysis\DBConnector\obj\Debug\net5.0\DBConnector.csproj.CoreCompileInputs.cache
+C:\Users\azatu\source\repos\Analysis\DBConnector\obj\Debug\net5.0\DBConnector.csproj.CopyComplete
+C:\Users\azatu\source\repos\Analysis\DBConnector\obj\Debug\net5.0\DBConnector.dll
+C:\Users\azatu\source\repos\Analysis\DBConnector\obj\Debug\net5.0\ref\DBConnector.dll
+C:\Users\azatu\source\repos\Analysis\DBConnector\obj\Debug\net5.0\DBConnector.pdb

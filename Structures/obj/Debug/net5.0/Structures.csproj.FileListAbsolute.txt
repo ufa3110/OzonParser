@@ -1,0 +1,12 @@
+C:\Users\azatu\source\repos\Analysis\Structures\bin\Debug\net5.0\Structures.deps.json
+C:\Users\azatu\source\repos\Analysis\Structures\bin\Debug\net5.0\Structures.dll
+C:\Users\azatu\source\repos\Analysis\Structures\bin\Debug\net5.0\ref\Structures.dll
+C:\Users\azatu\source\repos\Analysis\Structures\bin\Debug\net5.0\Structures.pdb
+C:\Users\azatu\source\repos\Analysis\Structures\obj\Debug\net5.0\Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azatu\source\repos\Analysis\Structures\obj\Debug\net5.0\Structures.AssemblyInfoInputs.cache
+C:\Users\azatu\source\repos\Analysis\Structures\obj\Debug\net5.0\Structures.AssemblyInfo.cs
+C:\Users\azatu\source\repos\Analysis\Structures\obj\Debug\net5.0\Structures.csproj.CoreCompileInputs.cache
+C:\Users\azatu\source\repos\Analysis\Structures\obj\Debug\net5.0\Structures.dll
+C:\Users\azatu\source\repos\Analysis\Structures\obj\Debug\net5.0\ref\Structures.dll
+C:\Users\azatu\source\repos\Analysis\Structures\obj\Debug\net5.0\Structures.pdb
+C:\Users\azatu\source\repos\Analysis\Structures\obj\Debug\net5.0\Structures.csproj.AssemblyReference.cache

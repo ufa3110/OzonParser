@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "heUct9Vu3S2hxb0I8wt8PWiP8gcH3quyu/mDwW4sGuerN+05eSzWoy0gfuIM50BaJnUj9snE6CHoT2Cww6VRqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\azatu\\source\\repos\\Analysis\\Parser\\Parser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azatu\\.nuget\\packages\\linq2db\\3.6.0\\linq2db.3.6.0.nupkg.sha512",
+    "C:\\Users\\azatu\\.nuget\\packages\\linq2db.postgresql\\3.6.0\\linq2db.postgresql.3.6.0.nupkg.sha512",
+    "C:\\Users\\azatu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\azatu\\.nuget\\packages\\npgsql\\5.0.11\\npgsql.5.0.11.nupkg.sha512",
+    "C:\\Users\\azatu\\.nuget\\packages\\openqa.selenium.chrome.chromedriverextensions\\1.2.0\\openqa.selenium.chrome.chromedriverextensions.1.2.0.nupkg.sha512",
+    "C:\\Users\\azatu\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\azatu\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\azatu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

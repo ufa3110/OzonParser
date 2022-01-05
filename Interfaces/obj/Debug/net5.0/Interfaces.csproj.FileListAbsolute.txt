@@ -1,0 +1,12 @@
+C:\Users\azatu\source\repos\Analysis\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+C:\Users\azatu\source\repos\Analysis\Interfaces\bin\Debug\net5.0\Interfaces.dll
+C:\Users\azatu\source\repos\Analysis\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+C:\Users\azatu\source\repos\Analysis\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+C:\Users\azatu\source\repos\Analysis\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azatu\source\repos\Analysis\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\azatu\source\repos\Analysis\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+C:\Users\azatu\source\repos\Analysis\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\azatu\source\repos\Analysis\Interfaces\obj\Debug\net5.0\Interfaces.dll
+C:\Users\azatu\source\repos\Analysis\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+C:\Users\azatu\source\repos\Analysis\Interfaces\obj\Debug\net5.0\Interfaces.pdb
+C:\Users\azatu\source\repos\Analysis\Interfaces\obj\Debug\net5.0\Interfaces.csproj.AssemblyReference.cache
